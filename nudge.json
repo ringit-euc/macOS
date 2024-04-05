@@ -7,7 +7,7 @@
       "aboutUpdateURL": "https://support.apple.com/en-us/HT211896",
       "requiredInstallationDate": "2024-03-30T00:00:00Z",
       "requiredMinimumOSVersion": "14.5",
-      "targetedOSVersionsRule": "14.5"
+      "targetedOSVersionsRule": "13"
     }
   ]
 }
