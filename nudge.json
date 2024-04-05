@@ -5,7 +5,7 @@
         "acceptableCameraUsage": false,
         "acceptableScreenSharingUsage": false,
         "aggressiveUserExperience": true,
-        "aggressiveUserFullScreenExperience": false,
+        "aggressiveUserFullScreenExperience": true,
         "asynchronousSoftwareUpdate": true,
         "attemptToBlockApplicationLaunches": false,
         "attemptToFetchMajorUpgrade": true,
@@ -36,8 +36,8 @@
             ],
             "actionButtonPath": "munki://updates",
             "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
-            "requiredInstallationDate": "2021-08-28T00:00:00Z",
-            "requiredMinimumOSVersion": "15",
+            "requiredInstallationDate": "2023-12-28T00:00:00Z",
+            "requiredMinimumOSVersion": "12.7.1",
             "targetedOSVersionsRule": "default"
         }
     ],
@@ -69,8 +69,8 @@
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
-        "iconDarkPath": "/somewhere/logoDark.png",
-        "iconLightPath": "/somewhere/logoLight.png",
+        "iconDarkPath": "/usr/local/etc/Nudge.logo.png",
+        "iconLightPath": "/usr/local/etc/Nudge.logo.png",
         "screenShotDarkPath": "/somewhere/screenShotDark.png",
         "screenShotLightPath": "/somewhere/screenShotLight.png",
         "showDeferralCount": true,
@@ -92,8 +92,7 @@
                 "oneHourDeferralButtonText": "One Hour",
                 "primaryQuitButtonText": "Later",
                 "secondaryQuitButtonText": "I understand",
-                "subHeader": "A friendly reminder from your local IT team",
-                "screenShotAltText": "Click to zoom into screenshot"
+                "subHeader": "A friendly reminder from your local IT team"
             },
             {
                 "_language": "es",
@@ -106,8 +105,7 @@
                 "mainHeader": "Tu dispositivo requiere una actualización de seguridad",
                 "primaryQuitButtonText": "Más tarde",
                 "secondaryQuitButtonText": "Entiendo",
-                "subHeader": "Un recordatorio amistoso de su equipo de IT local",
-                "screenShotAltText": "Haga clic para ampliar la captura de pantalla"
+                "subHeader": "Un recordatorio amistoso de su equipo de IT local"
             },
             {
                 "_language": "fr",
@@ -120,8 +118,7 @@
                 "mainHeader": "Votre appareil nécessite une mise à jour de sécurité.",
                 "primaryQuitButtonText": "Plus tard",
                 "secondaryQuitButtonText": "Je comprends",
-                "subHeader": "Un rappel amical de votre équipe informatique locale",
-                "screenShotAltText": "Cliquez pour agrandir la capture d'écran"
+                "subHeader": "Un rappel amical de votre équipe informatique locale"
             },
             {
                 "_language": "de",
@@ -134,8 +131,7 @@
                 "mainHeader": "Ihr Gerät benötigt ein Sicherheitsupdate",
                 "primaryQuitButtonText": "Später",
                 "secondaryQuitButtonText": "Ich verstehe",
-                "subHeader": "Eine freundliche Erinnerung von Ihrem IT-Team",
-                "screenShotAltText": "Hier klicken, um den Screenshot zu vergrößern"
+                "subHeader": "Eine freundliche Erinnerung von Ihrem IT-Team"
             }
         ]
     }
