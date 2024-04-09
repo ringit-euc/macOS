@@ -1,5 +1,6 @@
 {
   "optionalFeatures": {
+    "acceptableApplicationBundleIDs": ["com.ringcentral.glip"],
     "acceptableCameraUsage": true,
     "acceptableScreenSharingUsage": true,
     "aggressiveUserExperience": false,
