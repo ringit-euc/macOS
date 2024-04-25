@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL to raw file on GitHub
-baseURL="https://raw.githubusercontent.com/ringit-euc/macOS/main"
+baseURL="https://raw.githubusercontent.com/ringit-euc/macOS/main/Nudge"
 # Name of plist in the repository
 fileName="com.github.macadmins.Nudge.plist"
 # Base paths
