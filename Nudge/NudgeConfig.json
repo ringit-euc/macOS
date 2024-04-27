@@ -52,7 +52,7 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 20-40 minutes to complete.",
-        "mainContentText": "Keeping your macOS up-to-date is essential for security and performance.\n\nFailure to update may compromise your device's security and accessibility to important features.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If prompted to enter local admin credentials, please contact the IT Hotline provided below.\n\nNeed Help?\n\n•Chat Ringo via the RC App\n•GSD Hotline via Phone - 4357\n•FreshService Support Portal via Okta ",
+        "mainContentText": "Keeping your macOS up-to-date is essential for security and performance.\n\nFailure to update may compromise your device's security and accessibility to important features.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If you don't have local admin access and encounter a prompt, please contact the IT Hotline provided below.\n\nNeed Help?\n\n•Chat Ringo via the RC App\n•GSD Hotline via Phone - 4357\n•FreshService Support Portal via Okta ",
         "mainHeader": "Your device requires a security update",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
