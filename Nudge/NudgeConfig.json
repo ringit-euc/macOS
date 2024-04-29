@@ -18,7 +18,7 @@
         }
       ],
       "requiredInstallationDate": "2024-04-26T00:00:01Z",
-      "requiredMinimumOSVersion": "14.99"
+      "requiredMinimumOSVersion": "14.4.1"
     }
   ],
   "userExperience": {
