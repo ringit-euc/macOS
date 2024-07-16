@@ -15,17 +15,13 @@
         "aboutUpdateURL": "https://support.apple.com/en-us/109035",
         "requiredInstallationDate": "2024-07-15T00:00:00Z",
         "requiredMinimumOSVersion": "14.5",
-        "targetedOSVersionsRule": [
-          "14",
-          "13.6.7"
-        ],
-
+        "targetedOSVersionsRule": "14"
     },
     {    
         "_language": "en",
         "aboutUpdateURL": "https://support.apple.com/en-us/106337",
         "requiredInstallationDate": "2024-07-15T00:00:00Z",
-        "requiredMinimumOSVersion": "13.6.7",
+        "requiredMinimumOSVersion": "13.0.1",
         "targetedOSVersionsRule": "default"
     }
 ],
