@@ -28,7 +28,7 @@
   "userExperience": {
     "allowGracePeriods": true,
     "allowLaterDeferralButton": true,
-    "allowedDeferrals": 1,
+    "allowedDeferrals": 5,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 5,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
