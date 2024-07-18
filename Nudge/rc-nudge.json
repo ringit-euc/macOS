@@ -49,7 +49,10 @@
     "imminentRefreshCycle": 600,
     "imminentWindowTime": 24,
     "initialRefreshCycle": 18000,
+    "launchAgentIdentifier": "com.github.macadmins.Nudge",
+    "loadLaunchAgent": true,
     "noTimers": false,
+    "nudgeRefreshCycle": 60,
     "randomDelay": false
   },
   "userInterface": {
@@ -69,11 +72,11 @@
         "mainContentSubHeader": "Updates can take around 20-40 minutes to complete.",
         "mainContentText": "Keeping your macOS up-to-date is essential for security and performance.\n\nFailure to update may compromise your device's security and accessibility to important features.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nNeed Help?\n\n•Chat Ringo via the RC App\n•GSD Hotline via Phone - 4357\n•FreshService Support Portal via Okta ",
         "mainHeader": "Your device requires a security update",
-        "primaryQuitButtonText": "Later",
-        "secondaryQuitButtonText": "I understand",
         "subHeader": "A friendly reminder from your RingCentral IT team",
         "customDeferralButtonText": "Choose a date/time",
-        "customDeferralDropdownText": "Remind me in:"
+        "customDeferralDropdownText": "Remind me in:",
+        "primaryQuitButtonText": "Later",
+         "secondaryQuitButtonText": "I understand"
       }
     ]
   }
