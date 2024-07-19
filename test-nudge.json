@@ -19,14 +19,14 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/109035"
         }
       ],
-      "requiredInstallationDate": "2024-07-20T00:00:01Z",
+      "requiredInstallationDate": "2024-07-23T18:00:00",
       "requiredMinimumOSVersion": "14.6"
     }
   ],
   "userExperience": {
     "allowGracePeriods": true,
     "allowLaterDeferralButton": true,
-    "allowedDeferrals": 2,
+    "allowedDeferrals": 4,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 5,
     "approachingRefreshCycle": 6000,
     "approachingWindowTime": 72,
