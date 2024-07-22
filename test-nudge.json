@@ -8,7 +8,6 @@
     "asynchronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": true,
     "enforceMinorUpdates": true,
-    "latest": true,
     "utilizeSOFAFeed": true,
     "attemptToCheckForSupportedDevice": true
   },
