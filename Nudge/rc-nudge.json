@@ -67,9 +67,6 @@
       {
         "_language": "en",
         "actionButtonText": "Update Device",
-        
-
-        
         "secondaryQuitButtonText": "I understand",
         "informationButtonText": "More Info",
         "mainContentHeader": "Your device will restart during this update",
