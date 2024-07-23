@@ -38,6 +38,7 @@
     "imminentRefreshCycle": 600,
     "imminentWindowTime": 24,
     "initialRefreshCycle": 18000,
+    "launchAgentIdentifier": "com.github.macadmins.Nudge",
     "noTimers": false,
     "randomDelay": false
   },
