@@ -9,7 +9,8 @@
     "attemptToFetchMajorUpgrade": true,
     "enforceMinorUpdates": true,
     "utilizeSOFAFeed": true,
-    "attemptToCheckForSupportedDevice": true
+    "attemptToCheckForSupportedDevice": true,
+    "honorCycleTimersOnExit": true
   },
   "osVersionRequirements": [
     {
