@@ -67,11 +67,9 @@
       {
         "_language": "en",
         "actionButtonText": "Update Device",
-        "customDeferralButtonText": "Choose a date/time",
-        "customDeferralDropdownText": "Remind me in:",
-        "oneDayDeferralButtonText": "One Day",
-        "oneHourDeferralButtonText": "One Hour",
-        "primaryQuitButtonText": "Later",
+        
+
+        
         "secondaryQuitButtonText": "I understand",
         "informationButtonText": "More Info",
         "mainContentHeader": "Your device will restart during this update",
@@ -79,7 +77,11 @@
         "mainContentSubHeader": "Updates can take around 20-40 minutes to complete.",
         "mainContentText": "Keeping your macOS up-to-date is essential for security and performance.\n\nFailure to update may compromise your device's security and accessibility to important features.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nNeed Help?\n\n•Chat Ringo via the RC App\n•GSD Hotline via Phone - 4357\n•FreshService Support Portal via Okta ",
         "mainHeader": "Your device requires a security update",
+        "primaryQuitButtonText": "Later",
+        "secondaryQuitButtonText": "I understand",
         "subHeader": "A friendly reminder from your RingCentral IT team",
+        "customDeferralButtonText": "Choose a date/time",
+        "customDeferralDropdownText": "Remind me in:"
       }
     ]
   }
