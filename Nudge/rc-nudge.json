@@ -16,21 +16,21 @@
     {    
         "_language": "en",
         "aboutUpdateURL": "https://support.apple.com/en-us/109035",
-        "requiredInstallationDate": "2024-07-30T00:00:00Z",
+        "requiredInstallationDate": "2024-08-30T00:00:00Z",
         "requiredMinimumOSVersion": "14.5",
         "targetedOSVersionsRule": "14"
     },
     {    
         "_language": "en",
         "aboutUpdateURL": "https://support.apple.com/en-us/109035",
-        "requiredInstallationDate": "2024-07-30T00:00:00Z",
+        "requiredInstallationDate": "2024-08-30T00:00:00Z",
         "requiredMinimumOSVersion": "14.0",
         "targetedOSVersionsRule": "13.6.7"
     },
     {    
         "_language": "en",
         "aboutUpdateURL": "https://support.apple.com/en-us/106337",
-        "requiredInstallationDate": "2024-07-30T00:00:00Z",
+        "requiredInstallationDate": "2024-08-30T00:00:00Z",
         "requiredMinimumOSVersion": "13.6.7",
         "targetedOSVersionsRule": "default"
     }
