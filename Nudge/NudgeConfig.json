@@ -28,7 +28,7 @@
     "allowedDeferralsUntilForcedSecondaryQuitButton": 5,
     "approachingRefreshCycle": 12000,
     "approachingWindowTime": 72,
-    "elapsedRefreshCycle": 300,
+    "elapsedRefreshCycle": 6000,
     "gracePeriodInstallDelay": 23,
     "gracePeriodLaunchDelay": 1,
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
