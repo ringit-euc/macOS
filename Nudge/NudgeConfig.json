@@ -25,7 +25,7 @@
     "allowGracePeriods": true,
     "allowLaterDeferralButton": true,
     "allowedDeferrals": 4,
-    "allowedDeferralsUntilForcedSecondaryQuitButton": 5,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 4,
     "approachingRefreshCycle": 14400,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 6000,
