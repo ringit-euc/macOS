@@ -16,6 +16,7 @@
         {
           "_language": "en",
           "aboutUpdateURL": "https://support.apple.com/en-us/109035",
+          "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane"
         }
       ],
       "requiredInstallationDate": "2024-08-15T00:00:00Z",
@@ -27,7 +28,7 @@
         {
           "_language": "en",
           "aboutUpdateURL": "https://support.apple.com/en-us/109035",
-          "majorUpgradeAppPath": "/System/Library/CoreServices/Software Update.app"
+          "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane"
         }
       ],
       "requiredInstallationDate": "2024-08-15T00:00:00Z",
@@ -51,6 +52,7 @@
         {
           "_language": "en",
           "aboutUpdateURL": "https://support.apple.com/en-us/109035",
+          "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane"
         }
       ],
       "requiredInstallationDate": "2024-08-15T00:00:00Z",
