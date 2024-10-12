@@ -8,7 +8,10 @@
     "asynchronousSoftwareUpdate": true,
     "attemptToFetchMajorUpgrade": false,
     "disableSoftwareUpdateWorkflow": true,
-    "enforceMinorUpdates": true
+    "enforceMinorUpdates": true,
+    "utilizeSOFAFeed": true,
+    "attemptToCheckForSupportedDevice": true,
+    "honorCycleTimersOnExit": true
   },
   "osVersionRequirements": [
     {
@@ -19,7 +22,7 @@
           "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane"
         }
       ],
-      "requiredInstallationDate": "2024-08-15T00:00:00Z",
+      "requiredInstallationDate": "2024-10-15T00:00:00",
       "requiredMinimumOSVersion": "14.6"
     }
   ],
