@@ -20,7 +20,7 @@
         }
       ],
       "requiredInstallationDate": "2024-10-18T00:00:00Z",
-      "requiredMinimumOSVersion": "14.6"
+      "requiredMinimumOSVersion": "14.7"
     }
   ],
   "userExperience": {
