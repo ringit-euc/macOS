@@ -19,15 +19,15 @@
           "majorUpgradeAppPath": "/System/Library/PreferencePanes/Softwareupdate.prefpane"
         }
       ],
-      "requiredInstallationDate": "2024-08-15T00:00:00Z",
+      "requiredInstallationDate": "2024-10-18T00:00:00Z",
       "requiredMinimumOSVersion": "14.6"
     }
   ],
   "userExperience": {
     "allowGracePeriods": true,
     "allowLaterDeferralButton": true,
-    "allowedDeferrals": 4,
-    "allowedDeferralsUntilForcedSecondaryQuitButton": 4,
+    "allowedDeferrals": 6,
+    "allowedDeferralsUntilForcedSecondaryQuitButton": 6,
     "approachingRefreshCycle": 14400,
     "approachingWindowTime": 72,
     "elapsedRefreshCycle": 6000,
