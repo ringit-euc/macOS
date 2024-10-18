@@ -14,7 +14,8 @@
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/109035"
+          "aboutUpdateURL": "https://support.apple.com/en-us/109035",
+          "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app"
         }
       ],
       "requiredInstallationDate": "2024-08-09T00:00:00Z",
